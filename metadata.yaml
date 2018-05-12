@@ -1,0 +1,30 @@
+_repo: How-Music-DevelopedA-Critical-and-Explanatory-Account-of-the-Growth-of-Modern-Music_43467
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43467-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henderson, W. J. (William James)
+    alias: Henderson, William James
+    birthdate: 1855
+    deathdate: 1937
+    gutenberg_agent_id: '8988'
+    url: http://www.gutenberg.org/2009/agents/8988
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Henderson
+description: ''
+gutenberg_issued: '2013-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- History and criticism'
+title: 'How Music Developed
+
+  A Critical and Explanatory Account of the Growth of Modern Music'
+url: http://www.gutenberg.org/ebooks/43467
